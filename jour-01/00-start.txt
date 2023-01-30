@@ -1,0 +1,46 @@
+Présentation 
+
+
+cours : 
+https://formation.webdevpro.net/php-initiation/
+login : php 
+password : initiation 
+
+
+
+-------------------------------
+
+=> PHP = Hypertext Prepocessor 
+=> langugage SERVEUR => language qui va etre excecuté dans la machine qui est appelée
+
+=> les sites internet modernes 
+pour afficher les informations qu'on voit à l'ecran, on a 2 ordinateurs qui vont interagir 
+
+
+-------------------------------
+
+Pour pouvoir utiliser PHP, il faut OBLIGATOIREMENT avoir un SERVEUR Apache
+
+Apache => service qui permet d'ecouter les requêtes HTTP et qui passe la main à PHP 
+PHP est un module de Apache 
+
+-------------------------------
+
+
+XAMPP 
+
+X Cross Platform => MacOS / Windows / Linux 
+A Apache 
+M MariaDB
+P PHP 
+p Perl  
+
+-------------------------------
+
+LANCEMENT DE PHP 
+
+=> Crée un dossier "php-initiation" dans C:\xampp\htdocs
+
+x:\xampp\xampp-control.exe => lancer le panneau de gestion du serveur locale 
+ 
+=> cliquer sur le bouton start Apache 
